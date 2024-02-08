@@ -9,11 +9,7 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,10 +29,10 @@ Users should be able to:
 
 ### Built with
 
-- 
-- 
-- 
-- 
+- HTML-5
+- Vanilla Cascading Style Sheet (CSS)
+- Grid
+- Flexbox
 
 ## Author
 
