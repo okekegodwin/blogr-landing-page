@@ -145,7 +145,7 @@ header .menu {
 }
 
 @media (max-width: 376px) {
-  .intro-section { min-height: 55vh; }
+  .intro-section { min-height: 65vh; }
   .intro-section header {
     padding-left: 40px;
     padding-right: 40px;
