@@ -146,8 +146,8 @@ header .menu {
 
 @media (max-width: 376px) {
   .intro-section { 
-    min-height: 75vh; 
-    border-bottom-left-radius: 2rem;
+    min-height: 65vh; 
+    border-bottom-left-radius: 3rem;
   }
 
   .intro-section header {
