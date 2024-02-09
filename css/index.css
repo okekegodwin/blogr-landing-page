@@ -145,7 +145,11 @@ header .menu {
 }
 
 @media (max-width: 376px) {
-  .intro-section { min-height: 65vh; }
+  .intro-section { 
+    min-height: 70vh; 
+    border-bottom-left-radius: 3rem;
+  }
+
   .intro-section header {
     padding-left: 40px;
     padding-right: 40px;
@@ -299,7 +303,11 @@ header .menu {
 }
 
 @media (max-width: 380px) {
-  .third-section { padding-top: 140px; }
+  .third-section { 
+    padding-top: 140px; 
+    border-radius: 0 3rem;
+  }
+
   .third-section .phone-img { height: 30vh; }
   .third-section-text h2 { font-size: 22px; }
   .third-section-text p { font-size: 13px; }
@@ -425,5 +433,6 @@ footer .footer-page-logo { width: 30%; }
 }
 
 @media (max-width: 400px) {
+  footer { border-top-right-radius: 3rem; }
   footer .footer-page-logo { width: 30%; }
 }
